@@ -1,0 +1,35 @@
+<!DOCKTYPE html>
+<link rel="stylesheet" type="text/css" href="bscs23165_style.css" />
+<html>
+<head>
+    <title>Shopping MAll Mara Ha</title>
+</head>
+<div class="topnav">
+    <a href="bscs23165_home.html">Home</a>
+    <a href="bscs23165_products.html">products</a>
+    <a class="active" href="bscs23165_contacts.html">Contact</a>
+</div>
+
+
+<div class="c">
+    <div class="c-details">
+        <h3>CONTACT INFORMATION</h3>
+        <P>E-MAIL ID:  shoppingmallclothingbrand@gmail.com</P>
+        <p>PHONE NUMBER: 979-999-496</p>
+        <p>LOCATION: PIA MAIN SOCIETY 47-A, LAHORE</p>
+    </div>
+</div>
+
+<h3>CLICK THE FOLLOWING LOGOS TO VISIT OUR SOCIAL MEDIA PLATEFORMS</h3>
+<br />
+
+<div class="www.socailmedia">
+    <a href="https://www.instagram.com/accounts/login/">
+        <img src="bscs23165lab9o.jpeg" style="height:60px;font-weight:60px;" />
+    </a>
+
+    <a href="https://www.facebook.com/login/">
+        <img src="bscs23165lab9l.png"  style="height:50px;font-weight:50px;" />
+    </a>
+</div>
+</html>
