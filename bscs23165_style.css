@@ -1,0 +1,64 @@
+.topnav {
+    background-color: lightblue;
+    overflow: hidden;
+}
+
+    .topnav a {
+        float: left;
+        color: black;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px;
+    }
+
+        .topnav a:hover {
+            background-color: lightgray;
+            color: black;
+        }
+
+        .topnav a.active {
+            background-color: red;
+            color: white;
+        }
+
+        .hello{
+           width: 100%;
+           position: relative;
+           text-align: center;
+        }
+
+.hellothere {
+    position: absolute;
+    bottom: 60px;
+    right: 60px;
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.p{
+    background-color:lightgray;
+    margin: 15px;
+    border-radius:5px;
+    box-shadow:0 4px 8px lightblue;
+}
+
+.p-img {
+    text-align: center;
+    border-radius: 2px;
+}
+
+.c{
+    background-color:lightpink;
+    margin: 15px;
+    border-radius:5px;
+    box-shadow: 0 4px 8px lightgray;
+    text-align:center;
+}
+
+.socialmedia{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
